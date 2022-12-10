@@ -2,7 +2,7 @@
 
 ## ICS地址
 
-提供2010~2022年中国节假日放假、调休和补班日历的ICS格式订阅，可供iPhone、Google Calender、Outlook等支持iCalendar标准的客户端订阅
+提供2010~2023年中国节假日放假、调休和补班日历的ICS格式订阅，可供iPhone、Google Calender、Outlook等支持iCalendar标准的客户端订阅
 
 GitHub地址：<https://raw.githubusercontent.com/congqiu/ChineseHoliday/master/holiday.ics>
 
